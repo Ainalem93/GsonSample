@@ -1,4 +1,4 @@
-package dad.GsonSample;
+package dad.fx.GsonSample;
 
 public class Datos {
 
